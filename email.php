@@ -10,3 +10,4 @@ echo "fourth line from cli";
 echo "fourth line from online";
 
 echo "firth line from online";
+echo "fifth line from cli";
